@@ -74,7 +74,7 @@ body {
 .segunda-secao{
     background-color:var(--dark-blue) ;
     margin-bottom: 4rem;
-    padding: 1.5rem 1.3rem;
+    padding: 1.5rem 1.1rem;
     
 }
  
@@ -103,6 +103,16 @@ body {
     font-size: 1.25rem;
     line-height: 1.5rem;
     font-weight: 800;
-    margin-bottom: ;
+    margin-bottom:0.5rem; 
 }
+
+.segunda-secao p {
+    color: var(--silver);
+    font-size: 0.9375rem;
+    line-height: 1.625rem;
+
+
+     
+}
+
 
